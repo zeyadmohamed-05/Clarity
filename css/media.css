@@ -1,0 +1,11 @@
+@media screen and (max-width:992px) {
+    .megamenu {
+    max-width: 500px;
+    max-height: 370px;
+    transform: translateX(0) !important;
+    overflow-y: scroll;
+
+
+}
+
+}
